@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403107765295",
+    "project_id": "zen-b1-ilkom",
+    "storage_bucket": "zen-b1-ilkom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403107765295:android:abadfad15b90a71e3bbada",
+        "android_client_info": {
+          "package_name": "com.example.semester_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw-5ABJWFdIlnuoMrF8fTJnEhAjlA8ybc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
